@@ -26,3 +26,5 @@ Cada participante se apropia de un color (rojo, verde, azul o negro).
 4. Cuarto turno
 
    El juego acaba cuando se consigue llenar la hoja con los menores círculos rellenados posibles.
+   
+   Pablo Milán, Irene Martínez, Laura Estevan, María Saavedra.
