@@ -10,6 +10,7 @@ Cada participante se apropia de un color (rojo, verde, azul o negro).
   Por orden, cada participante debe dibujar un círculo tangente al anterior.
   
     2.1 Color rojo no se puede tocar con el color negro.
+    
     2.2 Color verde no se puede tocar con el color azul.
  
 3. Tercer turno
