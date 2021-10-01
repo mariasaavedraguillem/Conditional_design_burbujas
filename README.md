@@ -1,4 +1,4 @@
-# Conditional_design_burbujas
+# Conditional_design_bubbles
 Bubbles
 
 Cada participante se apropia de un color (rojo, verde, azul o negro).
